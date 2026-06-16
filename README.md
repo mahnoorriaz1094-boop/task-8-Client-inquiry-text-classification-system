@@ -1,5 +1,4 @@
-# task-8-Client-inquiry-text-classification-system
-#  CoreTech Client Inquiry — Text Classification
+# task-8 CoreTech Client Inquiry — Text Classification
 
 > **Internship Task | NLP & Machine Learning**  
 > Classifying client messages into service categories using Naive Bayes & Logistic Regression
